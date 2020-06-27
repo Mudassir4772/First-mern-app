@@ -1,0 +1,1 @@
+console.log("My firs js code from external file");
